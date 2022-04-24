@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x752FdacB71E76a68eC949FE25ccfCCd10Eee2F9F",
+  "SCAN_LINK": "https://etherscan.io/address/0x752fdacb71e76a68ec949fe25ccfccd10eee2f9f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Sweti Yeti Launch Club",
+  "SYMBOL": "SYLC",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 40000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sweti-yeti-launch-club-sylc",
+  "SHOW_BACKGROUND": true
+}
